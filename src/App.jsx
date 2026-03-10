@@ -1,5 +1,4 @@
-
-import viteLogo from '/vite.svg'
+import { Route, Router } from 'react-router'
 import './App.css'
 import Home from './Pages/Home.jsx'
 import Shop from './Pages/Shop.jsx'
